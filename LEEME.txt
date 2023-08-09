@@ -1,0 +1,11 @@
+Para poder ejecutar el proyecto se tiene que montar en Xampp todo esta direccionado para el localhost
+
+El archivo resultados.sql contiene el script de la base de datos que puede ser ejecutado en el phpmyadmin o mediante sqlworkbench
+
+
+
+php 8.2.4
+
+phpMyAdmin SQL 
+version 5.2.1
+Versión del servidor: 10.4.28-MariaDB

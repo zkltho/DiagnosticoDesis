@@ -1,0 +1,13 @@
+{
+    "name": "zklth/sistema-votacion",
+    "description": "Prueba diagnostico de Desis. Se debe desarrollar un sistema de votacion.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Thomas Diaz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    }
+}
